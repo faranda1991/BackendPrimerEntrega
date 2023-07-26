@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "title": "Producto 1",
+        "description": "Descripción del Producto 1 (Prueba de Actualizacion PUT desde Postman)",
+        "code": "code1",
+        "price": 100,
+        "status": true,
+        "stock": 10,
+        "category": "Categoria 1",
+        "thumbnails": [
+            "thumbnail1",
+            "thumbnail2",
+            "thumbnail3"
+        ]
+    },
+    {
+        "id": "e8280545-d341-43bb-90c3-d86f9b6361e7",
+        "title": "Producto 3",
+        "description": "Descripción del Producto 3 (Prueba desde Postman)",
+        "code": "code3",
+        "price": 300,
+        "status": true,
+        "stock": 30,
+        "category": "Categoria 3",
+        "thumbnails": [
+            "thumbnail7",
+            "thumbnail8",
+            "thumbnail9"
+        ]
+    }
+]
